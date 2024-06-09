@@ -33,7 +33,7 @@ export default function LoginPage() {
     }
   };
 
-  // 비밀번호 입력
+  // 비밀번호 입력....
   const handlePasswordChange = (e) => {
     setPassword(e.target.value);
     // console.log("password : ", e.target.value)
